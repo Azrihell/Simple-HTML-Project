@@ -1,7 +1,7 @@
-#  Simple HTMl Project
+#  Simple HTML Project
 This is a very simple HTML project to showcare mulitpage navigation and setting up a live server to launch the sites content.
 
-## Viewing the website
+## Viewing the Website
 You can view the website [here](https://simple-html-project.vercel.app/)
 
 ## Launching the Project
